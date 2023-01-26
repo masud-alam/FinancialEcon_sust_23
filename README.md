@@ -1,2 +1,2 @@
 # FinancianEcon_sust_23
-The FinancialEcon_SUST_23 repository has all the subfolders for each class meeting containing course materials, class lectures, R-code, and data to be used that day for the Financial Economics course. 
+The FinancialEcon_SUST_23 repository has all the subfolders for each class meeting containing course materials, class lectures, R-code, and data to be used that day for the Financial Economics course. The course materials are primarily designed for economics graduate students (Master, Semester I) taking their first Financial econ course at Shahjalal University of Science and Technology, Bangladesh, in the Spring of 2023. The materials will be updated regularly. 
